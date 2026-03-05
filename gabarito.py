@@ -8,7 +8,7 @@ import time
 
 # pyautogui.write -> escrever um texto
 # pyautogui.press -> apertar 1 tecla
-# pyautogui.click -> clicar em algum ogitech da tela
+# pyautogui.click -> clicar em algum ogitech da tela se atentar a posição do mouse de cada tela, para isso usar o pegar_posicao.py
 # pyautogui.hotkey -> combinação de teclas
 pyautogui.PAUSE = 0.3
 
